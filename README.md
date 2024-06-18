@@ -11,4 +11,4 @@ As the General Manager for the Sydney area at Airbnb, you want to know more abou
 
 <img src="https://corise.com/static/course/sql-crash-course/assets/cl9owz44x005e13a00fb5fhl0/Screen Shot 2022-10-25 at 5.42.23 PM.png" height="450">
 
-Please open
+Please open _Airbnb_database_1_SQLCC.ipynb_ first and then _Airbnb_database_2_SQLCC.ipynb_ to understand the process.
